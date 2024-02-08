@@ -8,7 +8,7 @@ This is a web project that combines HTML, CSS, and JavaScript to create a respon
 Table of Contents
 
 •	Description
-•	Features
+\n•	Features
 •	Installation
 •	Usage
 •	Contributing
