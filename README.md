@@ -6,13 +6,12 @@ https://github.com/SyedSabee/--Cafeteria/assets/145167243/749afc46-36dd-431e-91e
 This is a web project that combines HTML, CSS, and JavaScript to create a responsive and interactive website.
 
 Table of Contents
-
-•	Description
-•	Features
-•	Installation
-•	Usage
-•	Contributing
-•	License
+  •	Description
+  •	Features
+  •	Installation
+  •	Usage
+  •	Contributing
+  •	License
 
 
 # Description
