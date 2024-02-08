@@ -8,28 +8,11 @@ This is a web project that combines HTML, CSS, and JavaScript to create a respon
 Table of Contents
 
 •	Description
-\n•	Features
+•	Features
 •	Installation
 •	Usage
 •	Contributing
 •	License
-
-Description
-This project is a web application built using HTML, CSS, and JavaScript. It features a modern and stylish design with smooth animations and responsive layouts. The project includes different sections such as a home page, about page, menu page, review page, and booking page. It utilizes the Swiper library for creating a slider for reviews.
-
-
-Certainly! Here's a README file you can use for your project on GitHub:
-
-Project Title
-This is a web project that combines HTML, CSS, and JavaScript to create a responsive and interactive website.
-
-Table of Contents
-Description
-Features
-Installation
-Usage
-Contributing
-License
 
 
 # Description
